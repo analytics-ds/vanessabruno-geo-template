@@ -128,3 +128,4 @@ table.geo-compare thead th{padding-top:.6rem;padding-bottom:.6rem}
 }
 .geo-answer-wrap .geo-answer{padding:4px 36px}
 @media screen and (max-width:767px){.geo-answer-wrap .geo-answer{padding:4px 24px 4px 6px}}
+.geo-byline .geo-mark{padding:0 34px 0 14px}@media screen and (max-width:767px){.geo-byline .geo-mark{padding:0 26px 0 4px}}
