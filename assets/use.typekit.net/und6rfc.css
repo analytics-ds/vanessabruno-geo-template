@@ -14,29 +14,29 @@
  */
 /*{"last_published":"2019-01-31 09:22:43 UTC"}*/
 
-@import url("../p.typekit.net/p_e84b535a.css");
+@import url(../p.typekit.net/p_e84b535a.css);
 
 @font-face {
 font-family:"miller-banner";
-src:url("af/6f12d4/00000000000000003b9ae12d/27/l_e1961e20.woff2") format("woff2"),url("af/6f12d4/00000000000000003b9ae12d/27/d_e1961e20.woff") format("woff"),url("af/6f12d4/00000000000000003b9ae12d/27/a_e1961e20.bin") format("opentype");
+src:url(af/6f12d4/00000000000000003b9ae12d/27/l_e1961e20) format("woff2"),url(af/6f12d4/00000000000000003b9ae12d/27/d_e1961e20) format("woff"),url(af/6f12d4/00000000000000003b9ae12d/27/a_e1961e20) format("opentype");
 font-display:auto;font-style:normal;font-weight:400;font-stretch:normal;
 }
 
 @font-face {
 font-family:"miller-banner";
-src:url("af/1e0705/00000000000000003b9ae12f/27/l_fdccd016.woff2") format("woff2"),url("af/1e0705/00000000000000003b9ae12f/27/d_fdccd016.woff") format("woff"),url("af/1e0705/00000000000000003b9ae12f/27/a_fdccd016.bin") format("opentype");
+src:url(af/1e0705/00000000000000003b9ae12f/27/l_fdccd016) format("woff2"),url(af/1e0705/00000000000000003b9ae12f/27/d_fdccd016) format("woff"),url(af/1e0705/00000000000000003b9ae12f/27/a_fdccd016) format("opentype");
 font-display:auto;font-style:italic;font-weight:400;font-stretch:normal;
 }
 
 @font-face {
 font-family:"miller-banner";
-src:url("af/0483e3/00000000000000003b9ae131/27/l_e2656b17.woff2") format("woff2"),url("af/0483e3/00000000000000003b9ae131/27/d_e2656b17.woff") format("woff"),url("af/0483e3/00000000000000003b9ae131/27/a_e2656b17.bin") format("opentype");
+src:url(af/0483e3/00000000000000003b9ae131/27/l_e2656b17) format("woff2"),url(af/0483e3/00000000000000003b9ae131/27/d_e2656b17) format("woff"),url(af/0483e3/00000000000000003b9ae131/27/a_e2656b17) format("opentype");
 font-display:auto;font-style:italic;font-weight:700;font-stretch:normal;
 }
 
 @font-face {
 font-family:"miller-banner";
-src:url("af/607e10/00000000000000003b9ae132/27/l_652f71be.woff2") format("woff2"),url("af/607e10/00000000000000003b9ae132/27/d_652f71be.woff") format("woff"),url("af/607e10/00000000000000003b9ae132/27/a_652f71be.bin") format("opentype");
+src:url(af/607e10/00000000000000003b9ae132/27/l_652f71be) format("woff2"),url(af/607e10/00000000000000003b9ae132/27/d_652f71be) format("woff"),url(af/607e10/00000000000000003b9ae132/27/a_652f71be) format("opentype");
 font-display:auto;font-style:normal;font-weight:700;font-stretch:normal;
 }
 

@@ -129,3 +129,25 @@ table.geo-compare thead th{padding-top:.6rem;padding-bottom:.6rem}
 .geo-answer-wrap .geo-answer{padding:4px 36px}
 @media screen and (max-width:767px){.geo-answer-wrap .geo-answer{padding:4px 24px 4px 6px}}
 .geo-byline .geo-mark{padding:0 34px 0 14px}@media screen and (max-width:767px){.geo-byline .geo-mark{padding:0 26px 0 4px}}
+
+/* ---------- maillage interne vers les sous-catégories (page Robes) ---------- */
+.geo-links{display:grid;grid-template-columns:repeat(4,1fr);gap:.75rem;max-width:915px;margin:1.6rem auto 0;padding:0;font-family:domaine,sans-serif;text-align:left}
+.geo-links a{display:block;border:1px solid #d2d2d2;padding:.85rem 1rem;color:#000;text-decoration:none;transition:border-color .15s ease}
+.geo-links a:hover{border-color:#000}
+.geo-links b{display:block;font-family:domainenarrow,serif;font-weight:400;text-transform:uppercase;font-size:1.15rem;line-height:1.4rem}
+.geo-links span{display:block;margin-top:.2rem;font-size:.75rem;line-height:1.1rem;color:#757575}
+.geo-links a.todo{border-style:dashed}
+.geo-cards .more{display:block;margin-top:.35rem;font-size:.75rem;line-height:1.1rem}
+.geo-cards .more a{color:#757575;text-decoration:underline;text-underline-offset:3px}
+table.geo-compare td a{text-decoration:underline;text-underline-offset:3px}
+.geo-faq details p a{color:#000;text-decoration:underline;text-underline-offset:3px}
+@media screen and (max-width:767px){
+  .geo-links{grid-template-columns:1fr 1fr;gap:.6rem;margin-top:1.2rem}
+  .geo-links b{font-size:1rem}
+}
+
+/* le panneau panier, masqué par le JS du site, recouvre la page une fois le JS retiré */
+#show_top_cart.hide{display:none!important}
+.geo-hint{z-index:100000}
+@media screen and (max-width:767px){html,body{overflow-x:hidden;max-width:100%}}
+@media screen and (max-width:767px){.geo-links span{font-size:.7rem}}
